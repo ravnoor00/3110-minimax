@@ -1,0 +1,23 @@
+# dune exec bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/ravnoorbedi/.cache/dune/db
+# Workspace root: /Users/ravnoorbedi/Desktop/CS3100/final_3110
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/ravnoorbedi/Desktop/CS3100/final_3110/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/ravnoorbedi/.opam/cs3110-2023fa/bin/ocamlc.opt -config > /var/folders/m0/427l9fgs43n6vtkszsc538sm0000gn/T/dune_be2514_output
